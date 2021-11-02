@@ -1,5 +1,5 @@
 # iOS Swift Training
-This repository will be used for training iOS programming and UI patterns. Some examples may be simple, but they are used to learn the guidelines of the platform.
+This repository will be used for training iOS programming using Swift and UI patterns. Some examples may be simple, but they are used to learn the guidelines of the platform.
 <br><br>
 Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 <br><br>
