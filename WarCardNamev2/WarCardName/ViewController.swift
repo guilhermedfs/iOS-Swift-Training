@@ -24,7 +24,12 @@ class ViewController: UIViewController {
     }
     
     @IBAction func dealTapped(_ sender: Any) {
-        print("Deal tapped.")
+        leftImageView.image = UIImage(named: "card\(randNumbers())")
+        rightImageView.image = UIImage(named: "card\(randNumbers())")
+    }
+    
+    func randNumbers() -> Int{
+        return Int.random(in: 2...14)
     }
     
 }
