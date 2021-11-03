@@ -10,3 +10,7 @@ Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 <br><br>
 **WarCard:** this app presents some functions of Xcode like putting elements on a new Stack View. It has a card game template, though it's not functional.
 ## SwiftUI
+
+## Playgroud
+Here we have some codes for praticing concepts of Swift programming and object-oriented programming.
+
