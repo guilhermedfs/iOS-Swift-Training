@@ -9,6 +9,8 @@ Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 **Stack View:** similar to Hello World, it presents to the user sign in options in a scren. However, different of the Hello World example, this one use a stack view for constraining the buttons on the screen.
 <br><br>
 **WarCard:** this app presents some functions of Xcode like putting elements on a new Stack View. It has a card game template, though it's not functional.
+<br><br>
+**WarCard v2:** in this version of WarCard, I learned how to use some tools to debug the code. I also leaned how to connect storyboard elements with the viewController code and deal with user taps.
 ## SwiftUI
 
 ## Playgroud
