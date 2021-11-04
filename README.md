@@ -14,5 +14,5 @@ Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 ## SwiftUI
 
 ## Playgroud
-Here we have some codes for praticing concepts of Swift programming and object-oriented programming.
+Here we have some codes for praticing concepts of Swift programming and object-oriented programming and Coursera exercises to train Swift concepts learned in the course.
 
