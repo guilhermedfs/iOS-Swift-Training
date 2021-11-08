@@ -11,6 +11,8 @@ Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 **WarCard:** this app presents some functions of Xcode like putting elements on a new Stack View. It has a card game template, though it's not functional.
 <br><br>
 **WarCard v2:** in this version of WarCard, I learned how to use some tools to debug the code. I also leaned how to connect storyboard elements with the viewController code and deal with user taps.
+<br><br>
+**mvc-training:** in this app, I try to apply the MVC design pattern using some UI new concepts like separated views and also use object-orientation for studying the model. I also insert elements using the controller instead of the storyboard.
 ## SwiftUI
 
 ## Playgroud
