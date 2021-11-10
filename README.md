@@ -21,6 +21,8 @@ Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 **I am poor:** this is an app created for leaning how to deal with personalized assets for many types of screen and to learn how to create and use icon at a project.
 <br><br>
 **Dicee:** in this app I learned how to randomize items with switch and how to deal with UI elements in an array.
+<br><br>
+**Magic-8-Ball:** same as the previous app, but in this app we have to make decisions about design and functions that are going to be used and do all on our own.
 ## SwiftUI
 
 ## Playgroud
