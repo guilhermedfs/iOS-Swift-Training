@@ -23,6 +23,10 @@ Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 **Dicee:** in this app I learned how to randomize items with switch and how to deal with UI elements in an array.
 <br><br>
 **Magic-8-Ball:** same as the previous app, but in this app we have to make decisions about design and functions that are going to be used and do all on our own.
+<br><br>
+**AutoLayout:** this app helped me to train some concepts of autolayout and safe area.
+<br><br>
+**CalculatorLayout:** in this app, I used some concepts of the storyboard like views and stack views to build a calculator app that works in different types of screen.
 ## SwiftUI
 
 ## Playgroud
