@@ -27,6 +27,8 @@ Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 **AutoLayout:** this app helped me to train some concepts of autolayout and safe area.
 <br><br>
 **CalculatorLayout:** in this app, I used some concepts of the storyboard like views and stack views to build a calculator app that works in different types of screen.
+<br><br>
+**Xylophone:** here we built a xylophone to understand how to use functions to do things when each button is pressed. We use a single IBAction to perform actions for each button. We also study some things about asynchronous programing to delay the animation of the button when it's pressed. 
 ## SwiftUI
 
 ## Playgroud
