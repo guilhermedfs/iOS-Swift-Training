@@ -1,8 +1,6 @@
 # iOS Swift Training
 This repository will be used for training iOS programming using Swift and UI patterns. Some examples may be simple, but they are used to learn the guidelines of the platform.
 <br><br>
-Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
-<br><br>
 ## UIKit
 **Hello World:** is an sign in options screen that let the user chose between logging in with Google, Facebook or E-mail. It was developed to train buttons, fields, constraints and autolayout.
 <br><br>
@@ -31,6 +29,16 @@ Codes are made using a Hackintosh with a i5-7200U and 8GB of RAM.
 **Xylophone:** here we built a xylophone to understand how to use functions to do things when each button is pressed. We use a single IBAction to perform actions for each button. We also study some things about asynchronous programing to delay the animation of the button when it's pressed.
 <br><br>
 **EggTimer:** in this app we build an egg boiler timer using some pratices, like if clauses and dictionaries. Also, we learn how to deal with progress views and how to change data dinamically on the screen.
+<br><br>
+**Typsy:** it's an app where we train how to pass data between screens using delegate and learn how to use segues. This app consists in an app where we put the value, the quantity of people and the percentage of the tip. After this, the value is divided for the number of people present. 
+<br><br>
+**Quizzler:** it's an app where we deal with dynamic data. Some questions are presented and we have to answer yes or no, then the UI will show if our answer was correct by changing the buttons color for a while. In this app, we learn how to deal with timers and progress bars.
+<br><br>
+**Quizzler - Multiple Answers:** Same as the previous one, but now we have a bunch of answers and we have to deal with the user choice with multiple answers.
+<br><br>
+**Destini:** this app is a kind of *You Rather* app. Here we learn how to use the MVC pattern. 
+<br><br>
+**BMI-Calculator:** is this app we make and BMI calculator dealing with segues to pass data between screens. We also learn how to use UI Sliders.
 ## SwiftUI
 
 ## Playgroud
